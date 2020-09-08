@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>HTML, CSS and JavaScript demo</title>
+<style>
+body{
+  color: #B8F7FC;
+background-color: #000000;
+font-family: TimesNewRoman, "Times New Roman", Times, Baskerville, Georgia, serif;
+}
+h1{
+  color: #00AFBD;
+}
+h2{
+  color: #9CFCFD;
+}
+  h4{
+    color: #05AAB8;
+  }
+  h5 {
+    color: #F0F8FF;
+  }
+  ul {
+    color: #7FFFD4;
+  }
+div {
+  color: #59BAC2;
+}
+main{
+  color: #2D787E;
+}
+</style>
+</head>
+<body>
+
+  <h1>Trabajo Práctico #3 Bitácora de mi entrega de Dibujo</h1>
+  <h2>"Graffito", por Alondra Mendoza </h2>
+  <ul>
+      <li> Imprimí el dibujo, lo cuadricule, cuadriculé además la hoja en donde lo iba a replicar y comencé el contorno.</li>
+    <img src="https://64.media.tumblr.com/6afb4b040ad0ea8e81d5beae7727e6e5/568397905d58fb0a-67/s2048x3072/d4ae5cf93257b542850719b3440809c0c6ba5ab8.jpg" 
+  width="550"
+  height="450" >
+      <li>Comencé con las sombras más claras, los tonos más bajos del lápiz y a detallar poco.</li>
+    <img src="https://64.media.tumblr.com/69d3584053ce660d87e9b3de86164cfc/568397905d58fb0a-5c/s2048x3072/0e8dd33ff0e4e2097853ced6fe0cd7a0d27e09c1.jpg" 
+  width="450"
+  height="550" >
+      <li>Detallé mucho más el rostro y comencé a aplicar tonos más fuertes.</li>
+    <img src="https://64.media.tumblr.com/476a1fde3efc0a5093d5b0564c043a9f/568397905d58fb0a-01/s2048x3072/ffe7a90857703a876fc0ba39f1eacb22fe1d501b.jpg" 
+  width="450"
+  height="550" >
+      <li>Terminé de detallar por completo el rostro agregando muchos tonos del lápiz, incluyendo los más fuertes.</li>
+    <img src="https://64.media.tumblr.com/2da53d924fb8d38d3f40542b53a2a891/568397905d58fb0a-07/s2048x3072/2892e3587447ce0045fbd326011313b38ce8c04e.jpg" 
+  width="450"
+  height="750" >
+    </ul>
+  <h4> ¿Cuál es tu motivación para hacer la actividad del ejercicio 3?</h4>
+  <p> Es mi entrega del primer parcial de la clase de Dibujo II, además me gusta mucho dibujar y los disfruto como pasatiempo.</p>
+   <h4> ¿Cómo realizas esa actividad normalmente? Describe los pasos</h4>
+  <p> Normalmente voy libre, a lo que se me antoje dibujar y de la forma que sea, soy de trazo libre y de mucha creatividad así que normalmente no me gusta seguir a la perfección un dibujo.</p> 
+    <ol>
+      <li>Hago un boceto a lápiz de forma rápida</li>
+      <li>Lo detallo con el mismo lápiz</li>
+      <li>Lo paso a lapicero</li>
+      <li>Agrego color con la téctica que sea (acuarela, prismacolor, acrílico, etc.)</li>
+    </ol>
+   <h4> ¿Cómo te gustaría realizar esa actividad? </h4>
+  <p> Me hubiera gustado ir más libre y crear un dibujo que fuera personal, propio, pero por objetivos de la clase se que lo hicimos de esa forma para desarrollar la técnica.</p>
+   <h4> ¿Sientes que la actividad la realizas diferente ahora que estás siendo observado/a?</h4>
+    <p> No, realmente creo que es lo mismo.</p>
+  <h5> Hecho desde Uruapan, Michoacán, donde no existen datos verificables sobre los demás artistas de la ciudad.</h5>
+    
+  <a href="https://www.instagram.com/awowo.jpg/">
+  <img src="https://i.pinimg.com/originals/a2/5f/4f/a25f4f58938bbe61357ebca42d23866f.png" 
+  width="50"
+  height="50" >
+  </a>
+  <div> Awowocita > sígame profe</div>
+  <main> @awowo_dramaqueen </main>
+
+</body>
+</html>
